@@ -12,7 +12,15 @@
 
 **Today's Progress**: Finished the "Build a Wikipedia Viewer", a FreeCodeCamp challenge. Playing with jQuery, API and Bootstrap.
 
-**Thoughts:** It was hard to understand the Wikipedia API documentation and I still want to order the results calling the right Wikipedia API parameters. I also want to improve the frontend for mobile with Boostrap, but it's easier.
+**Thoughts:** It was hard to understand the Wikipedia API documentation and I still want to order the results by score or accuracy calling the right Wikipedia API parameters and load a snippet on random article. I also want to improve the frontend for mobile with Boostrap and get the user lang, but it's easier.
 
 **Link to work:** [Build a Wikipedia Viewer](https://codepen.io/andreferreira-me/full/YGqaZq/)
+
+### Day 2: 22/02/2017
+
+**Today's Progress**: Start a new FreeCodeCamp Challenge "Using the Twitch.tv JSON API". Playing with jQuery, API and Bootstrap.
+
+**Thoughts:** Many days without codiing, coding just at work with .NET. I hope start coding everyday since today.
+
+**Link to work:** [GitHub Commit](https://github.com/andreferreira-me/fcc-twitch-json-api/commit/11fd1df95da1889bb52d760256bb42540d7cd41c)
 
