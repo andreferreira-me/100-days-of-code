@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 4: 05/03/2017
+
+**Today's Progress**: Finish the Lesson 01 of #XamarinMarathon
+
+**Thoughts:** After a long time away of Xamarin, I'm attempting to finish the course #MaratonaXamarin until the deadline.
+
+**Link to work:**
+
+* [GitHub - Solution PhoneWord](https://github.com/andreferreira-me/PhoneWord)
+* [GitHub - Solution HelloXamarinForms](https://github.com/andreferreira-me/HelloXamarinForms)
+* [GitHub - Solution Greetings](https://github.com/andreferreira-me/Greetings)
+* [GitHub - Solution HelloXamarinFormsSAP](https://github.com/andreferreira-me/HelloXamarinFormsSAP)
+
 ### Day 3: 27/02/2017
 
 **Today's Progress**: Finish the FreeCodeCamp Challenge "Using the Twitch.tv JSON API".
