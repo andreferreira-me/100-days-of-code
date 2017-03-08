@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: 08/03/2017
+
+**Today's Progress**: Lesson 02 of #XamarinMarathon
+
+**Thoughts:** I learned and practice about layouts in Xamarin
+
+**Link to work:**
+
+* [GitHub - Solution ListViewDemo](https://github.com/andreferreira-me/ListViewDemo)
+* [GitHub - Solution LayoutsXamarin](https://github.com/andreferreira-me/LayoutsXamarin)
+
 ### Day 4: 05/03/2017
 
 **Today's Progress**: Finish the Lesson 01 of #XamarinMarathon
