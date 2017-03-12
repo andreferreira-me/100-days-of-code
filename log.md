@@ -8,7 +8,7 @@
 
 **Link to work:**
 
-* [GitHub - UdacityJavaScriptTesting](https://github.com/andreferreira-me/UdacityJavaScriptTesting)
+* [FCC - roman-numeral-converter](https://github.com/andreferreira-me/FreeCodeCamp-projects/commit/e75042370591468f03d4a73e8d381214604ff0fb)
 
 ### Day 6: 10/03/2017
 
