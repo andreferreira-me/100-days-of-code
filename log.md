@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: 10/03/2017
+
+**Today's Progress**: Practice with Layouts and SQLite in Xamarin #MaratonaXamarin
+
+**Thoughts:** I learned and practice about layouts and basics of SQLite in Xamarin, but I have to practice more
+
+**Link to work:**
+
+* [GitHub - Solution IngresosEgresos](https://github.com/andreferreira-me/IngresosEgresos)
+
 ### Day 5: 08/03/2017
 
 **Today's Progress**: Lesson 02 of #XamarinMarathon
