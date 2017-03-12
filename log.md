@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 7: 11/03/2017
+### Day 8: 12/03/2017
 
-**Today's Progress**: Learning about JavaScript Testing with Jasmine @udacity
+**Today's Progress**: Practicing #Javascipt on @freeCodeCamp and testing with #Jasmine @_100DaysOfCode #100daysofcode 
 
-**Thoughts:** Learning about JavaScript Testing with Jasmine to implement in my FCC exercises
+**Thoughts:** Learning about JavaScript Testing with Jasmine implemented in my first FCC exercises
 
 **Link to work:**
 
