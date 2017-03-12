@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: 11/03/2017
+
+**Today's Progress**: Learning about JavaScript Testing with Jasmine @udacity
+
+**Thoughts:** Learning about JavaScript Testing with Jasmine to implement in my FCC exercises
+
+**Link to work:**
+
+* [GitHub - UdacityJavaScriptTesting](https://github.com/andreferreira-me/UdacityJavaScriptTesting)
+
 ### Day 6: 10/03/2017
 
 **Today's Progress**: Practice with Layouts and SQLite in Xamarin #MaratonaXamarin
