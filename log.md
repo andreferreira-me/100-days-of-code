@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: 25/03/2017
+
+**Today's Progress**: Implementing SQLite .NET in Xamarin.Forms #xamarin #sql #sqlite #MaratonaXamarin @_100DaysOfCode #100daysofcode
+
+**Thoughts:** After some errors and many days away from coding study, I finish this part of #MaratonaXamarin
+
+**Link to work:**
+
+* [Github - PruebaXamarinForm](https://github.com/andreferreira-me/PruebaXamarinForm)
+
 ### Day 8: 12/03/2017
 
 **Today's Progress**: Practicing #Javascipt on @freeCodeCamp and testing with #Jasmine @_100DaysOfCode #100daysofcode 
@@ -8,7 +18,7 @@
 
 **Link to work:**
 
-* [FCC - roman-numeral-converter](https://github.com/andreferreira-me/FreeCodeCamp-projects/commit/e75042370591468f03d4a73e8d381214604ff0fb)
+* [GitHub Commit - FCC - roman-numeral-converter](https://github.com/andreferreira-me/FreeCodeCamp-projects/commit/e75042370591468f03d4a73e8d381214604ff0fb)
 
 ### Day 6: 10/03/2017
 
