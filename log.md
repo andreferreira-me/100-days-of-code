@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: 26/03/2017
+
+**Today's Progress**: Consuming REST API in Xamarin.Forms with HttpClient #xamarin #restAPI #MaratonaXamarin @_100DaysOfCode #100daysofcode
+
+**Thoughts:** Missing the last exercise of Module 4 of #MaratonaXamarin
+
+**Link to work:**
+
+* [Github - XamarinFormsRestAPI](https://github.com/andreferreira-me/XamarinFormsRestAPI)
+
 ### Day 9: 25/03/2017
 
 **Today's Progress**: Implementing SQLite .NET in Xamarin.Forms #xamarin #sql #sqlite #MaratonaXamarin @_100DaysOfCode #100daysofcode
