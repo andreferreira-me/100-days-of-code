@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: 07/04/2017
+
+**Today's Progress**: Learning about Azure Services for Mobile App in Xamarin #xamarin #MaratonaXamarin @_100DaysOfCode #100daysofcode
+
+**Thoughts:** #MaratonaXamarin Course Finished
+
+**Link to work:**
+
+* [Github - MaratonaXamarinCats](https://github.com/andreferreira-me/MaratonaXamarinCats)
+
 ### Day 10: 26/03/2017
 
 **Today's Progress**: Consuming REST API in Xamarin.Forms with HttpClient #xamarin #restAPI #MaratonaXamarin @_100DaysOfCode #100daysofcode
